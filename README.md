@@ -2,7 +2,7 @@
 
 ### I'm currently taking the Ironhack bootcamp for web-dev
 
-### I'm eager for learning about cyber-security and game-making as a a hobbie!
+### I'm eager for learning about cyber-security and game-making as a hobbie!
 
 <!--
 **edvicaty/edvicaty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
