@@ -1,6 +1,6 @@
 ### Hi!
 
-# I'm a full stack web developer with a background in science and a passion for creating and improving
+### I'm a full stack web developer with a background in science and a passion for creating and improving
 
 ### Here are some of my projects:
 - [Vicaty](https://vicaty.herokuapp.com/)
