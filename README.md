@@ -1,6 +1,6 @@
 ### Hi!
 
-### I'm a full stack web developer with a background in science and a passion for creating and improving
+### I'm a full stack web developer with a background in science (food chemistry) and a passion for creating and improving.
 
 ### Here are some of my projects:
 - [Vicaty](https://vicaty.herokuapp.com/)
@@ -19,6 +19,8 @@ Vicaty also has a repo for its API, which is in charge of handling all the reque
 I've made this app with the intention to create something useful and interesting for my community.
 I used a little web scraping to get official PROFECO data (sadly PROFECO doesn't have an API).
 This app was built with express.js, Node.js, Mapbox, Handlebars, and Mongo.
+
+### Don't hesitate to make contact! edvicaty@hotmail.com
 
 
 <!--
