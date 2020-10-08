@@ -4,7 +4,9 @@
 
 ### Here are some of my projects:
 - [Vicaty](https://vicaty.herokuapp.com/)
-- [REPO: Vicaty headless CMS](https://github.com/edvicaty/vicaty-server)
+- [REPO: Vicaty headless CMS SERVER](https://github.com/edvicaty/vicaty-server)
+- [REPO: Vicaty headless CMS CLIENT](https://github.com/edvicaty/vicaty-client)
+- [REPO: Vicaty headless CMS API](https://github.com/edvicaty/vicaty-API)
 
 This app is a full stack app made with react, node.js, express and antD, using passport for authenticacion, and Mongo for DB.
 I´ve made this app with the intention to create something useful and backend focused.
@@ -19,6 +21,8 @@ Vicaty also has a repo for its API, which is in charge of handling all the reque
 I've made this app with the intention to create something useful and interesting for my community.
 I used a little web scraping to get official PROFECO data (sadly PROFECO doesn't have an API).
 This app was built with express.js, Node.js, Mapbox, Handlebars, and Mongo.
+
+- 🌱 I’m currently learning SQL
 
 ### Don't hesitate to make contact! edvicaty@hotmail.com
 
