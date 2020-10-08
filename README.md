@@ -3,6 +3,8 @@
 ### I'm a full stack web developer with a background in science (food chemistry) and a passion for creating and improving.
 
 ### Here are some of my projects:
+- - - -
+### Vicaty
 - [Vicaty](https://vicaty.herokuapp.com/)
 - [REPO: Vicaty headless CMS SERVER](https://github.com/edvicaty/vicaty-server)
 - [REPO: Vicaty headless CMS CLIENT](https://github.com/edvicaty/vicaty-client)
@@ -15,6 +17,7 @@ Vicaty also has a repo for its API, which is in charge of handling all the reque
 
 
 - - - -
+### Merca-app
 - [Merca-app](https://merca-app.herokuapp.com/)
 - [REPO: Full-stack price consulting app with official PROFECO data and user data feedback for CDMX](https://github.com/edvicaty/Merca-App)
 
