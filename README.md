@@ -28,9 +28,9 @@ This app was built with express.js, Node.js, Mapbox, Handlebars, and Mongo.
 - - - -
 
 ### All my repos forked from [Ironhack](https://github.com/ironhack-labs) are part of my formation as a developer with the [Ironhack bootcamp](https://www.ironhack.com/)
-
+- - - -
 - 🌱 I’m currently learning SQL
-
+- - - -
 ### Don't hesitate to make contact! edvicaty@hotmail.com
 
 
