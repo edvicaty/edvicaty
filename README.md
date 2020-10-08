@@ -22,6 +22,8 @@ I've made this app with the intention to create something useful and interesting
 I used a little web scraping to get official PROFECO data (sadly PROFECO doesn't have an API).
 This app was built with express.js, Node.js, Mapbox, Handlebars, and Mongo.
 
+- - - -
+
 - 🌱 I’m currently learning SQL
 
 ### Don't hesitate to make contact! edvicaty@hotmail.com
