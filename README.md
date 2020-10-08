@@ -1,4 +1,4 @@
-### Hi!
+## Hi!
 
 ### I'm a full stack web developer with a background in science (food chemistry) and a passion for creating and improving.
 
