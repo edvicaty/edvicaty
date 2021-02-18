@@ -5,7 +5,7 @@
 - - - -
 
 - - - -
-### Don't hesitate to make contact! edvicaty@hotmail.com
+### edvicaty@hotmail.com
 
 
 <!--
