@@ -2,8 +2,6 @@
 
 ### I'm a full stack web developer with a background in science (food chemistry) and a passion for creating and improving.
 
-
-### All my repos forked from [Ironhack](https://github.com/ironhack-labs) are part of my formation as a developer with the [Ironhack bootcamp](https://www.ironhack.com/)
 - - - -
 
 - - - -
