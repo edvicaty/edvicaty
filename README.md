@@ -1,11 +1,8 @@
 ## Hi!
 
-### I'm a full stack web developer with a background in science and a passion for creating and improving.
+### I'm a developer with a background in science and a passion for creating and improving.
 
 - - - -
-
-- - - -
-### edvicaty@hotmail.com
 
 
 <!--
